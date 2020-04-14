@@ -1,0 +1,12 @@
+class tables {
+  constructor() {
+    this.seatingCapacity = integer;
+    this.height = integer;
+    this.shape = string;
+    this.available = boolean
+  }
+  seatGuests (if this.available = true, this will return "You can seat the guest");
+  tableFull (if seatingCapacity is greater than guests, this will return false, otherwise it will return true);
+  makeABiggerTable (If this.shape = square or rectangle, this will return true, otherwise it will return false);
+  handicapAccessible (if this.height is over a set number in the method, this will return false);
+}
