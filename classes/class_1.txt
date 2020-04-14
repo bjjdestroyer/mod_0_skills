@@ -1,0 +1,12 @@
+class Alcohol {
+  constructor() {
+    this.type = string;
+    this.brand = string;
+    this.pricePerDrink = float;
+    this.amountAlcoholAvailable = integer;
+  }
+  orderCost (user inputs how many drinks they want and multiply it by pricePerDrink to get the orderCost);
+  restockAlcohol (if amountAlcoholAvailable falls below a certain point, this method will return "restock", otherwise it will return "Do not restock");
+  changeType (this method allows the user to change the type of alcohol by reassigning this.type);
+  addToBar (if this.type is not in an outside variable called bar, this alcohol will be added to that array);
+}
