@@ -1,0 +1,14 @@
+var bar = []
+
+class cupcakeWine {
+  constructor() {
+    this.type = red wine;
+    this.brand = cupcake
+    this.pricePerDrink = 6.50;
+    this.amountAlcoholAvailable = 600;
+  }
+  orderCost (user ordered 2; 2 * 6.50 = 13);
+  restockAlcohol (This method will return "Do not restock");
+  changeType (it is a white wine; change type will change this.type to white wine);
+  addToBar (there is nothing in the bar array, so this instance will be added to the array);
+}
