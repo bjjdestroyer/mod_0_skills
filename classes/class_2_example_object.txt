@@ -1,0 +1,12 @@
+table4 {
+  constructor() {
+    this.seatingCapacity = 6;
+    this.height = 40;
+    this.shape = circle;
+    this.available = yes
+  }
+  seatGuests (This will return "You can seat the guest");
+  tableFull(5) (returns false);
+  makeABiggerTable (returns false because it's a circle);
+  handicapAccessible (set height for method is 36, this will return false);
+}
