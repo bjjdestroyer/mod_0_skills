@@ -1,8 +1,8 @@
-var food = broccoli;
+var food = "broccoli";
 
 var is_delicious = true;
 
-food = oreo;
+food = "oreo";
 
 var num2 = 14;
 
@@ -10,7 +10,7 @@ var num7 = 23;
 
 var quotient = num7 / num2;
 
-var songs = ["Anna Sun", "Digital Witness", Tip Toe"];
+var songs = ["Anna Sun", "Digital Witness", "Tip Toe"];
 
 songs.shift();
 
