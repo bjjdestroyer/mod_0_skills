@@ -2,8 +2,8 @@ var bar = []
 
 class cupcakeWine {
   constructor() {
-    this.type = red wine;
-    this.brand = cupcake
+    this.type = "red wine";
+    this.brand = "cupcake";
     this.pricePerDrink = 6.50;
     this.amountAlcoholAvailable = 600;
   }
