@@ -3,7 +3,7 @@ table4 {
     this.seatingCapacity = 6;
     this.height = 40;
     this.shape = "circle";
-    this.available = yes;
+    this.available = "yes";
   }
   seatGuests (This will return "You can seat the guest");
   tableFull(5) (returns false);
